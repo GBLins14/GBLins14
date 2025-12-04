@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Gabriel</h1>
 <h3 align="center">Software Engineer</h3>
 
-- All my projects are available here on [github](github)
+- All my projects are available here on github
 
 - 📫 How to reach me **gabrielglins18@gmail.com**
 
