@@ -20,7 +20,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="left" display="flex">
 <a href="https://linkedin.com/in/gblins14" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
 </a>
@@ -40,12 +40,12 @@
 
 ### 🚀 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=kotlin,spring,java,nodejs" />
+<img src="https://skillicons.dev/icons?i=kotlin,spring,java" />
 </p>
 
 ### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 ### ☁️ DevOps & Cloud
